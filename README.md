@@ -1,4 +1,7 @@
 # ml-workshop-2023
+
+![Machine Learning with Python ](docs/ml.png) 
+
 Machine Learning with Python - A workshop with Dr. Andrea Telatin (Quadram Institute) and Dr. Giovanni Birolo (University of Turin)
 
 ## Introduction

@@ -103,3 +103,8 @@ Machine learning has become increasingly important in many fields, including gen
 * Deep learning techniques, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), can be used to analyze genomic data and identify patterns and relationships between different features.
 
 * Unsupervised learning algorithms, such as autoencoders, can be used to identify complex relationships between different features and identify hidden patterns in NGS data.
+
+## Resources
+
+* [Python Machine Learning Notebooks (Tutorial style)](https://machine-learning-with-python.readthedocs.io/en/latest/)
+* [Python Machine Learning Jupyter Notebooks](https://github.com/tirthajyoti/Machine-Learning-with-Python)

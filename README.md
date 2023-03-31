@@ -96,10 +96,10 @@ This example shows how easy it is to implement unsupervised learning in Python u
 
 Machine learning has become increasingly important in many fields, including genomics and bioinformatics. Next-generation sequencing (NGS) is a powerful tool for studying genetic variation, gene expression, and other biological processes. Here are some examples of machine learning techniques that students can apply to NGS analyses using Python:
 
-    Clustering and dimensionality reduction techniques such as k-means clustering, hierarchical clustering, and principal component analysis (PCA) can be used to identify patterns and structure in large datasets of gene expression or sequence data.
+* Clustering and dimensionality reduction techniques such as k-means clustering, hierarchical clustering, and principal component analysis (PCA) can be used to identify patterns and structure in large datasets of gene expression or sequence data.
 
-    Classification algorithms such as random forests, support vector machines (SVMs), and neural networks can be used to classify sequences, identify genetic variants, or predict gene function based on sequence data.
+* Classification algorithms such as random forests, support vector machines (SVMs), and neural networks can be used to classify sequences, identify genetic variants, or predict gene function based on sequence data.
 
-    Deep learning techniques, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), can be used to analyze genomic data and identify patterns and relationships between different features.
+* Deep learning techniques, such as convolutional neural networks (CNNs) and recurrent neural networks (RNNs), can be used to analyze genomic data and identify patterns and relationships between different features.
 
-    Unsupervised learning algorithms, such as autoencoders, can be used to identify complex relationships between different features and identify hidden patterns in NGS data.
+* Unsupervised learning algorithms, such as autoencoders, can be used to identify complex relationships between different features and identify hidden patterns in NGS data.
